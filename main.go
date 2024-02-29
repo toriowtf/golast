@@ -221,7 +221,7 @@ func AuthMiddleware(next http.Handler) http.Handler {
 
 func sendEmail(to, subject, body string) error {
 	from := "toriopubgmobile@gmail.com"
-	password := "gvam ryzn luqi ejki"
+	password := "arww xoav rmgw nuyu"
 	smtpHost := "smtp.gmail.com"
 	smtpPort := "587"
 
